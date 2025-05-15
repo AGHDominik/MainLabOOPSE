@@ -16,7 +16,7 @@ int main() {
     }
 
     try {
-        Villager lowAttackVillager("Tim", 20, 0, "Scythe");
+        Villager lowAttackVillager("Tim", 20, 0, "Dagger");
         lowAttackVillager.boostAttack();
     }
     catch (const exception& e) {
