@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "D:\\DM\\Lab\\Labolatories\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|D:\\DM\\Lab\\Labolatories\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|D:\\DM\\Lab\\Labolatories\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|solutionrelative:Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|D:\\DM\\Lab\\Labolatories\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|D:\\DM\\Lab\\Labolatories\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|solutionrelative:Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E39E170-C283-487E-B5A4-298816727C6C}|..\\Testings\\Testings.vcxproj|D:\\DM\\Lab\\Testings\\Testings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|D:\\DM\\Lab\\Labolatories\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|D:\\DM\\Lab\\Labolatories\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|D:\\DM\\Lab\\Labolatories\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|D:\\DM\\Lab\\Labolatories\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|D:\\DM\\Lab\\Labolatories\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E39E170-C283-487E-B5A4-298816727C6C}|..\\Testings\\Testings.vcxproj|D:\\DM\\Lab\\Testings\\Testings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0772771A-D49E-4EEE-81D0-9E54B927BA70}|Labolatories.vcxproj|D:\\DM\\Lab\\Labolatories\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -41,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,32 +53,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\DM\\Lab\\Labolatories\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "D:\\DM\\Lab\\Labolatories\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-08T10:09:05.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Game.cpp",
               "DocumentMoniker": "D:\\DM\\Lab\\Labolatories\\Game.cpp",
               "RelativeDocumentMoniker": "Game.cpp",
               "ToolTip": "D:\\DM\\Lab\\Labolatories\\Game.cpp",
               "RelativeToolTip": "Game.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-08T10:07:39.656Z"
+              "WhenOpened": "2025-05-08T10:07:39.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Game.h",
               "DocumentMoniker": "D:\\DM\\Lab\\Labolatories\\Game.h",
               "RelativeDocumentMoniker": "Game.h",
@@ -86,19 +87,21 @@
               "RelativeToolTip": "Game.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-08T10:07:27.104Z"
+              "WhenOpened": "2025-05-08T10:07:27.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "D:\\DM\\Lab\\Labolatories\\Enemy.cpp",
               "RelativeDocumentMoniker": "Enemy.cpp",
               "ToolTip": "D:\\DM\\Lab\\Labolatories\\Enemy.cpp",
               "RelativeToolTip": "Enemy.cpp",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAowEQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-08T10:06:54.369Z"
+              "WhenOpened": "2025-05-08T10:06:54.369Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -114,15 +117,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Character.cpp",
               "DocumentMoniker": "D:\\DM\\Lab\\Labolatories\\Character.cpp",
               "RelativeDocumentMoniker": "Character.cpp",
               "ToolTip": "D:\\DM\\Lab\\Labolatories\\Character.cpp",
               "RelativeToolTip": "Character.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAACEAAABDAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-08T10:05:02.393Z"
+              "WhenOpened": "2025-05-08T10:05:02.393Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -132,13 +136,14 @@
               "RelativeDocumentMoniker": "Character.h",
               "ToolTip": "D:\\DM\\Lab\\Labolatories\\Character.h",
               "RelativeToolTip": "Character.h",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAAAaAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-08T10:03:23.682Z"
+              "WhenOpened": "2025-05-08T10:03:23.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Testings.cpp",
               "DocumentMoniker": "D:\\DM\\Lab\\Testings\\Testings.cpp",
               "RelativeDocumentMoniker": "..\\Testings\\Testings.cpp",

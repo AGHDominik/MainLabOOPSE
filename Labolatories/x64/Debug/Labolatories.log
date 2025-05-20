@@ -1,2 +1,9 @@
-﻿  main.cpp
-  Labolatories.vcxproj -> D:\DM\Lab\Labolatories\x64\Debug\Labolatories.exe
+﻿  Character.cpp
+  Enemy.cpp
+  Game.cpp
+  main.cpp
+  Generowanie kodu...
+Character.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: virtual void __cdecl Character::addObserver(class HealthObserver *)" (?addObserver@Character@@UEAAXPEAVHealthObserver@@@Z)
+Character.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: virtual void __cdecl Character::removeObserver(class HealthObserver *)" (?removeObserver@Character@@UEAAXPEAVHealthObserver@@@Z)
+Character.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: virtual void __cdecl Character::notifyObservers(void)" (?notifyObservers@Character@@UEAAXXZ)
+D:\DM\Lab\Labolatories\x64\Debug\Labolatories.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 3

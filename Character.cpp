@@ -21,6 +21,7 @@ void Character::attack(Enemy& enemy) {
 void Character::getHit(int damage) {
     health -= damage;
     cout << name << " takes " << damage << " damage. Remaining HP: " << health << "\n";
+    notifyObservers();
 }
 
 string Character::getName() const {
@@ -98,4 +99,21 @@ void SciFiWorld::HeroActivities::speak() {
 }
 void SciFiWorld::EnemyActivities::attack() {
     cout << "Fantasy Hero: Fire the lasers!" << endl;
+}
+
+void HealthLogger::update() {
+    cout << "[Observer] " << character ->getName() << "Health changed!\n";
+}
+
+void Character::addObserver(HealthObserver* observer) {
+    observers.push_back(observer);
+}
+void Character::removeObserver(HealthObserver* observer) {
+    observers.erase(remove(observers.begin(), observers.end(), observer), observers.end());
+}
+void Character::notifyObservers() {
+    for (HealthObserver* observer : observers)
+    {
+        observer->update();
+    }
 }

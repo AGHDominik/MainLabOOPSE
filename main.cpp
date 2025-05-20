@@ -34,6 +34,8 @@ int main() {
 
 
     Hero* hero = new Hero("Bob", 50, 10, "Stick");
+    HealthLogger logger1;
+    hero->addObserver(&logger1);
     FantasyWorld::HeroActivities FantasyHA;
     FantasyHA.speak();
     Monster* monster = new Monster("Goblin", 30, 5);

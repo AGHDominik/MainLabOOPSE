@@ -3,24 +3,45 @@
 
 #include <string>
 #include <iostream>
+#include <vector>
 using namespace std;
 
 class Enemy;
 
-class Character {
+class HealthObserver {
+public:
+    virtual void healthChanged() = 0;
+};
+
+class Subject {
+public:
+    virtual void addObserver(HealthObserver* observer) = 0;
+    virtual void removeObserver(HealthObserver* observer) = 0;
+    virtual void notifyObservers() = 0;
+};
+
+class Character : public Subject {
 protected:
     string name;
     int health;
     int attackPower;
+
     string weapon;
+
+private:
+    vector<HealthObserver*> observers;
 
 public:
     Character(string n, int hp, int ap, string w);
     virtual ~Character();
     virtual void describe() = 0;
+
     void attack(Enemy& enemy);
     void getHit(int damage);
     string getName() const;
+    void addObserver(HealthObserver* observer) override;
+    void removeObserver(HealthObserver* observer) override;
+    void notifyObservers() override;
 };
 
 class Hero : public Character {
@@ -41,6 +62,14 @@ public:
     void describe() override;
     void talkTo(const string& other);
     void boostAttack(); //
+};
+
+class HealthLogger : public HealthObserver {
+private:
+    Character* character;
+public: 
+    HealthLogger(Character* character);
+    void update() override;
 };
 
 namespace FantasyWorld {
